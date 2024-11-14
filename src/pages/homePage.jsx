@@ -30,7 +30,7 @@ function HomePage() {
                     }} className='bg-cyan-800 font-mono 
                      w-9/12 p-3 text-xl rounded-lg font-semibold m-3 hover:text-cyan-900 hover:bg-white'>Polygon(Amoy)</button></div>
                     <div><button onClick={function (i) {
-                        navigate('/ethereum')
+                        navigate('/')
                     }} className='bg-cyan-800 font-mono  w-9/12 
                     p-3 text-xl rounded-lg font-semibold m-3 hover:text-cyan-900 hover:bg-white'>Ethereum(Sepolia)</button></div>
 

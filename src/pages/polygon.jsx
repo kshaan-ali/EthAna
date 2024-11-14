@@ -45,9 +45,9 @@ function Polygon() {
                 <p className='text-cyan-300'>*Make Sure You Have Added amoy TestNet to your Metamask*</p>
             </div>
             {cond == 0 ? (
-                <div>
-                    0
-                </div>
+                <div className='text-white'>
+                In development.... 
+             </div>
             ) : (<div>
 
             </div>)}

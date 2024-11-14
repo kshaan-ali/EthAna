@@ -18,8 +18,8 @@ function Solana() {
             }}
             /></div>
             {cond == 0 ? (
-                <div>
-                   0 
+                <div className='text-white'>
+                   In development.... 
                 </div>
             ) : (<div>
 
@@ -32,9 +32,9 @@ function Solana() {
 
             </div>)}
             {cond == 2 ? (
-                <div>
-                    2
-                </div>
+                <div className='text-white'>
+                In development.... 
+             </div>
             ) : (<div>
 
             </div>)}
